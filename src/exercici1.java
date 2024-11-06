@@ -19,6 +19,7 @@ public class exercici1 {
                 t.setPenDown(true);
             }
             moverme(t,sideLength, spacing, columns);
+
         }
 
         t.show();
