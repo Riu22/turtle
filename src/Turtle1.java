@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercici1 {
+public class Turtle1 {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.println("dime el numero de lineas ");
