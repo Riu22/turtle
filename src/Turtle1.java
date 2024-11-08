@@ -23,6 +23,7 @@ public class Turtle1 {
         }
 
         t.show();
+        sc.close();
     }
 
     public static void cuadradito(Turtle t, int lados) {
