@@ -9,7 +9,6 @@ public class turtle4 {
         t.forward(25);
         moveUp(t, stepLength, angle, repetitions);
         moveDown(t, stepLength, angle, repetitions);
-        t.markCursor();
         t.show();
     }
 
