@@ -15,6 +15,7 @@ public class turtle2 {
         t.forward(x);
 
         t.show();
+        sc.close();
     }
     public static void escalones(Turtle t,int x, int y, int veces){
         for (int i = 0; i < veces; i++) {
