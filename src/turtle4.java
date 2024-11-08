@@ -1,4 +1,6 @@
 public class turtle4 {
+    static  int b = 8;
+
     public static void main(String[] args) {
         Turtle t = new Turtle(500, 500);
 
